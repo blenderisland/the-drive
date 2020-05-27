@@ -1,5 +1,5 @@
 # the-drive
-....as in the car drive.
+....as in 'a car drive'.
 
 A blender animation and teamwork exercise.
 
