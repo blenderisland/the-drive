@@ -21,4 +21,4 @@ If you need help, feel free to contact me. But first watch this video: https://w
 And look over this page: https://guides.github.com/activities/hello-world/
 
 
-'Auto run python scripts' is diabled in the main.blend file.
+Security recommendation: In preferences under save and load set 'Auto run python scripts' to diabled, before opening downloaded blender files. Alternatively do this for the folder 'downloads'.
