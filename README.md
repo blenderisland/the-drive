@@ -8,6 +8,7 @@ Organizing blend files for teamwork.
 Learning to use github.
 
 The result: An animation of a car / camera driving past all the models we add. Like another idea better? Just fork the project and change it to your liking. :)
+I recommend maximum 20.000 quads pr model to begin with.
 
 /blend
 This directory contains a 'main.blend' file. Other files are linked into this file. If you want to see the animation in blender, use this file.
