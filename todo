@@ -1,2 +1,3 @@
 How do we organize blend files for collaboration?
-What is the procedure for roll backs on github? Imagine pulling a damaged file into the master branch. Will it how do we recover?
+What is the procedure for roll backs on github? Imagine pulling a damaged file into the master branch. How do we recover?
+How is an abandoned branch ended / delted, so no one wastes time working on while assuming it is active?
