@@ -25,3 +25,5 @@ Becarefull when working on files that others are working on in their branches. T
 The work branch is open for commiting with out protection. If you use this branch coordinate in discord.
 
 Security recommendation: In preferences under save and load set 'Auto run python scripts' to diabled, before opening downloaded blender files. Alternatively do this for the folder 'downloads'.
+
+This is how the animation looks atm.: https://youtu.be/QhaVaDdA8Qs
